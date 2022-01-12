@@ -1,5 +1,8 @@
 # Robots
-Game made in MIPS assembly language. 
+By Kennedy Janto
+
+Game made in MIPS assembly language for final project of CS2640 - Computer Organization and Assembly programming
+
 Rules:
 Once game starts, a board appears containing periods, dollar signs, and hashtags. 
 Dollar sign represents robots, hashtag represents walls and obstacles and period represents open spaces.
